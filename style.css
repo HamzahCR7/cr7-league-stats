@@ -19,6 +19,9 @@ h3 {
   font-weight: 400;
   margin-bottom: 0;
 }
+.heading1{
+  font-family: 'Roboto Condensed', sans-serif;
+}
 
 .carousel-wrapper {
   position: relative;
